@@ -6,4 +6,6 @@ Second revision for the portolio page.
 
 HTML, CSS
 
+# Link:
+
 https://jonyung1205.github.io/james-portfolio-page/
