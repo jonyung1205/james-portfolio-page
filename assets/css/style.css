@@ -158,6 +158,10 @@ nav ul li a {
 	width: 690px;
 }
 
+label {
+	font-family: "Times New Roman";
+}
+
 /* Container */
 
 .wrapper {
